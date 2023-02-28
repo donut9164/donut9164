@@ -1,4 +1,7 @@
-### Hi there 👋
+### <h2> Hi there 👋 I'm ShadowSnow <h2>
+
+<h3> 👨‍💻 About me <h3>
+<h4> &bull; 🏫 I study at grade 8 
 
 <!--
 **donut9164/donut9164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
