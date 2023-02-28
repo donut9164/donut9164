@@ -19,9 +19,6 @@
 
 ### 🛠 tools
 <a href="https://code.visualstudio.com"><img align="left" height="32px" width="32px" alt="vscode" src="https://github.com/donut9164/donut9164/blob/main/vscode.png"></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img align="left" height="32px" width="32px" alt="photoshop" src="https://github.com/donut9164/donut9164/blob/main/ps.png"></a>
-
-<a href="https://www.adobe.com/products/premiere.html"><img align="left" height="32px" width="32px" alt="premiere pro" src="https://github.com/donut9164/donut9164/blob/main/pr.png"></a>
 
 <br/><br/>
 
