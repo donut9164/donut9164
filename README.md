@@ -27,7 +27,7 @@
 
 <a href="https://www.instagram.com/shadoww_ssnow/"><img align="left" height="32px" width="32px" alt="instagram" src="https://github.com/donut9164/donut9164/blob/main/instagram.png"></a>
 
-<a href="https://www.facebook.com/ShadowWSsnow"><img align="left" height="35px" width="35px" alt="facebook" src="https://github.com/donut9164/donut9164/blob/main/facebook.png"></a>
+<a href="https://www.facebook.com/ShadowWSsnow"><img align="left" height="33px" width="33px" alt="facebook" src="https://github.com/donut9164/donut9164/blob/main/facebook.png"></a>
 
 <!--
 **donut9164/donut9164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
