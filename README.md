@@ -3,7 +3,7 @@
 ### 👨‍💻 About me
 - 🌱 I’m currently learning **HTML & CSS and JS**
 - 🤔 I’m looking for help with **AI machine learning**
-- 📫 How to Reach me : **email facebook instagram**
+- 📫 How to Reach me : **<a href="mailto:9164kko@gmail.com">email</a> <a href="https://www.facebook.com/ShadowWSsnow">facebook</a> <a href="https://www.instagram.com/shadoww_ssnow/">instagram</a>**
 - 😄 Pronound : **he/him** 
 ### 📐Languages
 
