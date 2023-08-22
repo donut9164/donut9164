@@ -23,8 +23,8 @@
 [![Facebook](https://github.com/donut9164/donut9164/blob/main/facebook.png)](https://www.facebook.com/ShadowWSsnow)
 
 ## 🚀 Projects
-- [Project 1: Planthings](https://github.com/donut9164/Planthings) - PlanThings is a website that helps you find suitable plants for your location and provides guidance on how to grow them.
-- [Project 2: Terminal-clone](https://github.com/donut9164/Terminal-clone) - Terminal Clone, a versatile command-line interface that replicates terminal functionality. Explore commands for system management, internet interaction, and Python package handling. Learn about available actions and their usage below.
+- [Planthings](https://github.com/donut9164/Planthings) - PlanThings is a website that helps you find suitable plants for your location and provides guidance on how to grow them.
+- [Terminal-clone](https://github.com/donut9164/Terminal-clone) - Terminal Clone, a versatile command-line interface that replicates terminal functionality. Explore commands for system management, internet interaction, and Python package handling. Learn about available actions and their usage below.
 ---
 
 <div align="center">
