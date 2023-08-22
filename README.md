@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm ShadowSnow
+Hello there! I'm ShadowSnow a high school student, passionate about a computer language. I believe in the power of technology to make a positive impact on the world. My journey in the world of coding and development has been an exciting one, and I'm constantly exploring and learning new things.
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning **HTML, CSS, and JS**
