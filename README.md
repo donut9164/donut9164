@@ -23,8 +23,13 @@
 [![Facebook](https://github.com/donut9164/donut9164/blob/main/facebook.png)](https://www.facebook.com/ShadowWSsnow)
 
 ## 🚀 Projects
+Here are a few projects I've worked on that showcase my skills and interests:
+
 - [Planthings](https://github.com/donut9164/Planthings) - PlanThings is a website that helps you find suitable plants for your location and provides guidance on how to grow them.
 - [Terminal-clone](https://github.com/donut9164/Terminal-clone) - Terminal Clone, a versatile command-line interface that replicates terminal functionality. Explore commands for system management, internet interaction, and Python package handling.
+
+Feel free to explore these repositories to learn more about my work!
+
 ---
 
 <div align="center">
@@ -34,3 +39,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowSnow&layout=compact&theme=dark)](https://github.com/ShadowSnow)
   
 </div>
+
+Feel free to connect with me and explore my repositories. Looking forward to learning, collaborating, and growing together!
