@@ -17,6 +17,7 @@ Hello there! I'm ShadowSnow a high school student, passionate about a computer l
 
 ## 🛠 Tools
 ![VSCode logo](https://github.com/donut9164/donut9164/blob/main/vscode.png)
+![Git](https://github.com/donut9164/donut9164/blob/main/git.png)
 
 ## 🤝🏻 Connect with Me
 [![Gmail](https://github.com/donut9164/donut9164/blob/main/gmail.png)](mailto:9164kko@gmail.com)
